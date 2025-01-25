@@ -2,9 +2,9 @@
 - 👀 I’m interested in code
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on code
-- 📫 How to reach me: mail
+- 📫 How to reach me: carrier pigeon
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i cant think of fun facts
+- ⚡ Fun fact: TIME Magazine Person of the Year 2006
 
 <!---
 CRichard7701/CRichard7701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
